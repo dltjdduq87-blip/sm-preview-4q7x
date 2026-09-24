@@ -4,7 +4,7 @@
   "lang": "ko",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f7f1ec",
-  "theme_color": "#f7f1ec",
+  "background_color": "#f2f3f5",
+  "theme_color": "#f2f3f5",
   "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
 }
